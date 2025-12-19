@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## Hoş Geldiniz
-
 Burada aklıma gelenleri paylaşıyorum.
 
 ### Son Yazılar
