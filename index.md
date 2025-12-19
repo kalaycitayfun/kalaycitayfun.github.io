@@ -2,8 +2,6 @@
 layout: default
 ---
 
-Burada aklıma gelenleri paylaşıyorum.
-
 ### Son Yazılar
 
 <ul>
