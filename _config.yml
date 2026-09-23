@@ -1,10 +1,9 @@
 title: tayfun kalaycı
-email: tayfunkalayci35@gmail.com
 description: >-
-  zannettiğiniz kadar uzak değil
+  Gün içerisinde kafamın içinde birbirini tekrarlayan fikirler için bir yuva.
+linkedin_url: "https://www.linkedin.com/in/tayfun-kalayci-7b5a18161/"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kalaycitayfun.github.io"
-github_username: kalaycitayfun
 
 # Build settings
 theme: minima
