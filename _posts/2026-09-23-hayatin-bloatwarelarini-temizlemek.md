@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hayatın Bloatware'larını Temizlemek"
+title: "hayatın bloatware'larını temizlemek"
 date: 2026-09-23 11:00:00 +0300
 ---
 
