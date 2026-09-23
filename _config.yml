@@ -1,2 +1,13 @@
-description: zannettiğiniz kadar uzak değil
-theme: jekyll-theme-minimal
+title: Tayfun Kalaycı
+email: tayfunkalayci35@gmail.com
+description: >-
+  zannettiğiniz kadar uzak değil
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://kalaycitayfun.github.io"
+github_username: kalaycitayfun
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
